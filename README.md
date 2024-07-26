@@ -1,0 +1,2 @@
+# MemeFiBot
+MemeFiBot App AutoClicker
