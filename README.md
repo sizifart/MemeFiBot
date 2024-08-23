@@ -15,7 +15,7 @@
 | Support tdata / pyrogram .session / telethon .session          |     ✅     |
 
 ## [Settings](https://github.com/sizifart/MemeFiBot/.env-example)
-| Настройка                | Описание                                                                                                                   |
+| Setting                      | Description                                                                                                            |
 |--------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | **API_ID / API_HASH**    | Platform data from which to launch a Telegram session (stock - Android)                                                    |
 | **MIN_AVAILABLE_ENERGY** | Minimum amount of available energy, upon reaching which there will be a delay (eg 100)                                     |
