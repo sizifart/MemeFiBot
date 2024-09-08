@@ -69,8 +69,8 @@ Before you begin, make sure you have the following installed:
 [Link about python and pip on Termux](https://wiki.termux.com/wiki/Python) that comes with the pkg python
 
 ```bash
-git clone https://github.com/sizifart/TimefarmBot.git
-cd TimefarmBot
+git clone https://github.com/sizifart/MemeFiBot.git
+cd MemeFiBot
 pip3 install -r requirements.txt
 chmod +x main.py
 ```
